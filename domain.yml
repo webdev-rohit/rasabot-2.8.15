@@ -11,22 +11,22 @@ intents:
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! I am JoritzBot. I'm here to help you"
 
   utter_cheer_up:
   - text: "Cheer up"
 
   utter_did_that_help:
-  - text: "Did that help you?"
+  - text: "Did that help you in achieving your goal?"
 
   utter_happy:
-  - text: "Great, carry on!"
+  - text: "Great, carry on then!"
 
   utter_goodbye:
-  - text: "Bye"
+  - text: "Goodbye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "I am a bot, powered by LTI"
 
 session_config:
   session_expiration_time: 60

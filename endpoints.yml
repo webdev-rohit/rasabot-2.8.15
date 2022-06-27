@@ -25,11 +25,11 @@
 #    password: <password used for authentication>
 #    use_ssl: <whether or not the communication is encrypted, default false
 
-lock_store:
-    type: redis
-    url: 127.0.0.1
-    port: 6379
-    db: 0
+#lock_store:
+#    type: redis
+#    url: 127.0.0.1
+#    port: 6379
+#    db: 0
 
 #tracker_store:
 #    type: mongod
